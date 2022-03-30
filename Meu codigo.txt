@@ -6,4 +6,6 @@ coandos: git init
 	git commit -m "commit inicial"
 	git config --global user.email ""
 	git config --global user.name ""
-	
+	git push
+	git reflog
+	GIT reset -hard NÚMERO da versão
