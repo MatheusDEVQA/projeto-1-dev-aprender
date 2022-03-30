@@ -1,1 +1,9 @@
 Olá sou Matheus
+coandos: git init
+	git status
+	git add ".txt"
+	git add .
+	git commit -m "commit inicial"
+	git config --global user.email ""
+	git config --global user.name ""
+	
